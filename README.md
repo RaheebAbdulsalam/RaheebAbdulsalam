@@ -1,6 +1,6 @@
 ## Hi there, I'm RaheebAbdulsalam
 
-[![Linkedin Badge](https://img.shields.io/badge/-raheeb-abdulsalam-00a6281ba-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raheeb-abdulsalam-00a6281ba/ "Connect on LinkedIn")
+[!Linkedin Badge](https://img.shields.io/badge/-raheebabdulsalam-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raheebabdulsalam/ "Connect on LinkedIn")
 [![Twitter Badge](https://twitter.com/Raheeb97 "Follow on Twitter")
 
 
