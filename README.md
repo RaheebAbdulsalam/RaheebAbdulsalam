@@ -5,4 +5,4 @@
 
 
 
-I am currently a second-year Computer Science student at Aston University. I am constantly learning new skills and knowledge to pursue a career. Learning new skills allows me to enter roles such as Software Engineer, web developer, data analyst, etc. I am excited about this journey ahead of me. Gaining experience, networking and have interacted in a successful industry that is constantly evolving.
+Second-year Computer Science student at Aston University. Skilled in designing, developing, and testing multiple software and web-based applications incorporating a range of technologies. Seeking to utilise broad educational background with excellent analytical, technical, and programming skills. I am constantly learning new skills and knowledge to pursue a career. I am excited about this journey ahead of me. Gaining experience, networking and have interacted in a successful industry that is constantly evolving.
