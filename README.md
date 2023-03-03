@@ -12,6 +12,7 @@ Second-year Computer Science student at Aston University. Skilled in designing, 
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="Bootstarp" width="40px" src="https://user-images.githubusercontent.com/99501966/222798390-c67afe77-6ec6-4725-92c1-fc49ff7123cf.png" />
 <img align="left" alt="PHP" width="40px" src="https://user-images.githubusercontent.com/99501966/222797531-af253d7e-a6fb-4123-b1ff-9ea3e5dcb888.png" />
 <img align="left" alt="Laravel" width="40px" src="https://img.icons8.com/fluency/48/000000/laravel.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
