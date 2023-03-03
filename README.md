@@ -8,9 +8,3 @@
 Second-year Computer Science student at Aston University. Skilled in designing, developing, and testing multiple software and web-based applications incorporating a range of technologies. Seeking to utilise broad educational background with excellent analytical, technical, and programming skills. I am constantly learning new skills and knowledge to pursue a career. I am excited about this journey ahead of me. Gaining experience, networking and have interacted in a successful industry that is constantly evolving.
 
 <h3 align="left">Languages and Tools:</h3>
-<i class="fab fa-python"></i> Python
-<i class="fab fa-java"></i> Java
-<i class="fab fa-html5"></i> HTML5
-<i class="fab fa-css3-alt"></i> CSS3
-<i class="fab fa-js"></i> JavaScript
-
