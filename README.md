@@ -6,7 +6,7 @@
 
 
 
-Second-year Computer Science student at Aston University. Skilled in designing, developing, and testing multiple software and web-based applications incorporating a range of technologies. Seeking to utilise broad educational background with excellent analytical, technical, and programming skills. I am constantly learning new skills and knowledge to pursue a career. I am excited about this journey ahead of me. Gaining experience, networking and have interacted in a successful industry that is constantly evolving.
+Final-year Computer Science student at Aston University. Skilled in designing, developing, and testing multiple software and web-based applications incorporating a range of technologies. Seeking to utilise broad educational background with excellent analytical, technical, and programming skills. I am constantly learning new skills and knowledge to pursue a career. I am excited about this journey ahead of me. Gaining experience, networking and have interacted in a successful industry that is constantly evolving.
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" />
